@@ -23,9 +23,6 @@ ip address 172.16.0.1 255.255.0.0
 description REDE 172.16.0.0/16
 no shutdown
 do wr
-
-
-
 enable
 configure terminal
 interface gigabitEthernet 0/2
